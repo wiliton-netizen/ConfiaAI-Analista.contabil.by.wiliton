@@ -1,0 +1,6 @@
+{
+  "name": "ConfiaAI",
+  "description": "Analista financeiro sênior e microsserviço analítico de alta performance para diagnósticos e análises de demonstrações contábeis (Balanço, DRE e índices).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
